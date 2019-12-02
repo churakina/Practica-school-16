@@ -4,8 +4,9 @@ using namespace std;
 int main()
 {
 int x,y,r,st,en,h1,h2,d;
-cout Ђ "¬ведите координаты x,y" Ђ endl;
-cin їx їy;
+setlocale (LC_ALL, "Russian");
+cout << "¬ведите координаты x,y" << endl;
+cin >> x >> y;
 txCreateWindow (1000, 1000);
 r= 60;
 txSetFillColour (TX_YELLOW);
