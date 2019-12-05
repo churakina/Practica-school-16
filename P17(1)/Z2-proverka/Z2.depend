@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1575494788 source:c:\users\admin\desktop\practica-school-16-master\p17\z2\main.cpp
+	<iostream>
+	"TXLib.h"
+
+1575236148 c:\users\admin\desktop\practica-school-16-master\p17\z2\txlib.h
+	<assert.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<process.h>
+	<signal.h>
+	<locale.h>
+	<time.h>
+	<float.h>
+	<math.h>
+	<map>
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	<windows.h>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<crtdbg.h>
+
+1575522453 source:c:\users\admin\desktop\practica-school-16-master\p17(1)\z2-proverka\main.cpp
+	<iostream>
+	"TXLib.h"
+
+1575236148 c:\users\admin\desktop\practica-school-16-master\p17(1)\z2-proverka\txlib.h
+	<assert.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<process.h>
+	<signal.h>
+	<locale.h>
+	<time.h>
+	<float.h>
+	<math.h>
+	<map>
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	<windows.h>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<crtdbg.h>
+
