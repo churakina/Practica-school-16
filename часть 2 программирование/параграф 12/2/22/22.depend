@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1578910375 source:c:\users\public\documents\10 класс НЕ УДАЛЯТЬ ПОЖАЛУЙСТА\Чуракина и Голубятникова\practica-school-16\часть 2 программирование\параграф 12\2\22\main.cpp
+	<iostream>
+	"TXLib.h"
+
+1578906014 c:\users\public\documents\10 класс НЕ УДАЛЯТЬ ПОЖАЛУЙСТА\Чуракина и Голубятникова\practica-school-16\часть 2 программирование\параграф 12\2\22\txlib.h
+	<assert.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<process.h>
+	<signal.h>
+	<locale.h>
+	<time.h>
+	<float.h>
+	<math.h>
+	<map>
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	<exception>
+	<stdexcept>
+	<conio.h>
+	<windows.h>
+	<tlhelp32.h>
+	<shellapi.h>
+	<shlobj.h>
+	<crtdbg.h>
+
